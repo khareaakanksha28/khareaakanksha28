@@ -4,7 +4,7 @@
 - 🎓 MS in Information Technology and Management @ UT Dallas
 - 💼 Aspiring Analyst | Data Storyteller | Digital Illustrator
 - 🔍 Passionate about uncovering insights through data, solving real-world problems, and expressing creativity through minimalist digital art.
-- 🧠 Currently learning Big Data Technologies, Advanced Machine Learning, and Cloud Integrations.
+- 🧠 Currently learning Big Data Technologies, Applied Machine Learning, and AI for Business.
 
 ## 💻 Technical Skills
 - **Languages:** Python, SQL, R, Java, C++, JavaScript
