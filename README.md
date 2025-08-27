@@ -17,11 +17,6 @@
 - Google Data Analytics Professional Certificate
 - MB-910 Microsoft Dynamics 365 Fundamentals
 
-## 📈 Featured Projects
-- **MUBI SVOD Platform Analysis:** SQL & Power BI dashboard to uncover movie industry insights.
-- **HR Analytics for Employee Attrition:** Python-based Random Forest model achieving 85% accuracy.
-- **Pest Detection in Agriculture:** CNN model achieving 97% detection accuracy using TensorFlow.
-
 ## 🎨 Beyond Data
 When I'm not analyzing data, I enjoy creating minimalist digital illustrations.  
 Blending analytics with creativity gives me fresh perspectives for solving problems.
